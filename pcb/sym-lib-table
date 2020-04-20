@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name conn_wii)(type Legacy)(uri ${KIPRJMOD}/conn_wii.lib)(options "")(descr ""))
+  (lib (name wiiwing_parts)(type Legacy)(uri ${KIPRJMOD}/wiiwing_parts.lib)(options "")(descr ""))
+)

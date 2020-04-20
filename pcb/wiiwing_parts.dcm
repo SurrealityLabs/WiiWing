@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9543AD
+D 4-channel I2C-bus multiplexer with interrupt logic, SOIC20 package
+K i2c multiplexer
+F http://www.nxp.com/documents/data_sheet/PCA9544A.pdf
+$ENDCMP
+#
+#End Doc Library
